@@ -4,4 +4,4 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/testdb
-外面的文件
+name: waimiande 
