@@ -4,5 +4,5 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/testdb
-      
-      徐霁测试文件，里面的文件
+  name: limiande     
+  
